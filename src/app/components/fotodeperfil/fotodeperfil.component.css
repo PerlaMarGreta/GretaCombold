@@ -1,0 +1,38 @@
+img{
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 40%;
+   
+}
+
+.fotocont{
+    height: 80px;
+}
+
+.fotorow{
+    height: 80px;
+}
+
+.blockfoto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width: 991.98px) { 
+
+    img{
+        height: 150px;
+        border-radius: 50%;
+        position: absolute;
+        bottom: 60%;
+       
+    }
+    .fotocont{
+        height: 90px;
+    }
+    
+    .fotorow{
+        height: 90px;
+    }
+}

@@ -1,0 +1,19 @@
+.nombre{
+    font-size: 50px;
+    font-family: RamonaB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.full{
+    font-size: 25px;
+    font-family: RamonaB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width: 991.98px) { 
+    .nombre {
+        font-size: 40px;
+    }
+ }

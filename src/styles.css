@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: 'Ramona';
+    src: url('assets/fonts/Ramona-Light.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RamonaB';
+    src: url('assets/fonts/Ramona-Bold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}

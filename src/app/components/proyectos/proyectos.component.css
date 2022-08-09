@@ -1,0 +1,14 @@
+.circle{
+    height:400px;
+    width: 400px ;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 1px rgb(223, 223, 223);
+    margin: 10px;
+
+}
+.rowcircle{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+}

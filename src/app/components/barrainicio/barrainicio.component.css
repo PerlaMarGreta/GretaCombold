@@ -1,0 +1,35 @@
+.argentinalogo{
+    height: 40px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.lk{
+    height: 40px;
+    margin: 10px;
+}
+.login{
+    border: 1px solid chartreuse;
+    background-color: rgb(147, 255, 125);
+    border-radius: 10px;
+    color: rgb(255, 253, 253);
+    padding: 10px;
+    margin: 10px;
+}
+
+.yopr{
+height: 30px;
+margin-top: 17px;
+}
+
+.barra{
+    height: 60px;
+}
+
+@media (max-width: 991.98px) { 
+    .login{
+        font-size: 9px;
+        padding: 8px;
+        width:60px;
+    }
+}
