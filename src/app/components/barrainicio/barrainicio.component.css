@@ -6,13 +6,19 @@
 .argentinalogoalt{
     display: none;
 }
+.loginalt{
+    display: none;
+}
+.loginuno{
+height: 40px;
+}
 
 .lk{
     height: 40px;
     margin: 10px;
 }
 .login{
-    border: 1px solid chartreuse;
+    border: 1px solid #53730E;
     background-color: #53730E;
     border-radius: 10px;
     color: rgb(255, 253, 253);
@@ -35,6 +41,10 @@ margin-top: 17px;
         padding: 8px;
         width:60px;
     }
+    .loginuno{
+        height: 30px;
+        }
+    
 }
 @media (max-width: 575.98px) { 
 
@@ -54,6 +64,25 @@ margin-top: 17px;
             display: block;
             border-radius: 50%;
             margin-top: 5px;
+        }
+        .loginalt{
+            height: 30px;
+            width: 30px;
+            display: block;
+            margin-top: 0px;
+        }
+        .login{
+            height: 50px;
+            width: 50px;
+            border: 1px solid #53730E;
+            background-color: #53730E;
+            border-radius: 10px;
+            color: rgb(255, 253, 253);
+            padding: 10px;
+            margin: 10px;
+        }
+        .loginuno{
+            display: none;
         }
         
 } 
