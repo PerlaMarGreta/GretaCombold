@@ -5,12 +5,14 @@ import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { EducacionComponent } from './components/educacion/educacion.component';
 import { SkillsComponent } from './components/skills/skills.component';
 import { IdiomasComponent } from './components/idiomas/idiomas.component';
+import { SoftwareComponent} from './components/software/software.component';
 const routes: Routes = [
   {path:'experiencia',component: ExperienciaComponent},
   {path:'proyectos',component: ProyectosComponent},
   {path:'educacion',component:EducacionComponent},
   {path: 'skills',component: SkillsComponent},
   {path: 'idiomas', component: IdiomasComponent},
+  {path: 'software', component: SoftwareComponent}
 ];
 
 @NgModule({

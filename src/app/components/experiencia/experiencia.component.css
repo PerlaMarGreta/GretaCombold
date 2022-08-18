@@ -111,4 +111,13 @@ width: 150px;
         font-family: Ramona;
         font-size: 9px;
     }
+    .kitley{
+        width: 35px;
+        height: 65px;
+    }
+    .lineartecimage{
+        border-radius: 50%;
+        height: 60px;
+        width: 60px;
+        }
 }
