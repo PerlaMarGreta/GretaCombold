@@ -70,16 +70,19 @@ margin-top: 17px;
             width: 30px;
             display: block;
             margin-top: 0px;
+            margin: 0px;
         }
         .login{
-            height: 50px;
-            width: 50px;
+            height: 40px;
+            width: 40px;
             border: 1px solid #53730E;
             background-color: #53730E;
             border-radius: 10px;
             color: rgb(255, 253, 253);
-            padding: 10px;
-            margin: 10px;
+            padding: 5px;
+            margin-top: 10px;
+            margin-right: 0px;
+            margin-left: 0px;
         }
         .loginuno{
             display: none;
