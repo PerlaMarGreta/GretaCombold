@@ -78,8 +78,37 @@ width: 150px;
     
     }
     .yogaup{
-        height: 70px;
-        width: 70px;
+        height: 60px;
+        width: 60px;
         border-radius: 50%;
+    }
+
+    .año{
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-size: 15px;
+        font-family: RamonaB;
+        color: chartreuse;
+    }
+    .Tituloa{
+        font-family: Ramona;
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .titulob{
+        font-family: Ramona;
+        font-size: 9px;
+        margin: 3px;
+        padding: 0px;
+    }
+    .nombretitle{
+        font-size: 12px;
+        font-family: RamonaB;
+        color: chartreuse;
+        margin-bottom: 0px;
+    }
+    .ubicacion{
+        font-family: Ramona;
+        font-size: 9px;
     }
 }
