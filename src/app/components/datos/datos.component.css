@@ -25,5 +25,12 @@
     font-size: 30px;
     height: 50px;
    }
+   .full{
+    font-size: 15px;
+    font-family: RamonaB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 }
