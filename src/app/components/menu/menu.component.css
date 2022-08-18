@@ -14,5 +14,17 @@
     font-family: RamonaB;
 }
 .border:hover {
-    background-color: rgb(252, 2, 210);
+    background-color: #E3B42D;
+    color: #BF0B1A;
  }
+
+ @media (max-width: 575.98px) { 
+
+    .caja{
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+        
+} 
