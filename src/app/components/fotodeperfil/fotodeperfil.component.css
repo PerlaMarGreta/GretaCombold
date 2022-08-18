@@ -2,16 +2,16 @@ img{
     height: 200px;
     border-radius: 50%;
     position: absolute;
-    bottom: 40%;
+    bottom: 45%;
    
 }
 
 .fotocont{
-    height: 80px;
+    height: 85px;
 }
 
 .fotorow{
-    height: 80px;
+    height: 85px;
 }
 
 .blockfoto{
@@ -19,6 +19,23 @@ img{
     justify-content: center;
     align-items: center;
 }
+
+@media (max-width: 1199.98px) { 
+    img{
+        height: 200px;
+        border-radius: 50%;
+        position: absolute;
+        bottom: 50%;
+       
+    }
+    .fotocont{
+        height: 80px;
+    }
+    
+    .fotorow{
+        height: 80px;
+    }
+ }
 @media (max-width: 991.98px) { 
 
     img{
@@ -34,5 +51,23 @@ img{
     
     .fotorow{
         height: 90px;
+    }
+}
+
+@media (max-width: 575.98px) { 
+  
+    img{
+        height: 100px;
+        border-radius: 50%;
+        position: absolute;
+        bottom: 70%;
+       
+    }
+    .fotocont{
+        height: 80px;
+    }
+    
+    .fotorow{
+        height: 80px;
     }
 }

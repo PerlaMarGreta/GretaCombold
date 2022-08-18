@@ -12,8 +12,18 @@
     justify-content: center;
     align-items: center;
 }
+
 @media (max-width: 991.98px) { 
     .nombre {
         font-size: 40px;
     }
  }
+
+ 
+@media (max-width: 575.98px) { 
+   .nombre{
+    font-size: 30px;
+    height: 50px;
+   }
+
+}
