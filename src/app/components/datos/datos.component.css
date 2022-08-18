@@ -27,6 +27,7 @@
    }
    .full{
     font-size: 15px;
+    margin-bottom: 10px;
     font-family: RamonaB;
     display: flex;
     justify-content: center;
